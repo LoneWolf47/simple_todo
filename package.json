@@ -1,7 +1,7 @@
 {
-  "name": "todo",
+  "name": "auth",
   "version": "1.0.0",
-  "description": "A todo app",
+  "description": "trying auth",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,8 @@
   "author": "LoneWolf",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "basic-auth": "^2.0.1",
     "express": "^4.16.4",
-    "mongoose": "^5.4.13"
+    "mongoose": "^5.4.14"
   }
 }
